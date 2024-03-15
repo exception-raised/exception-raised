@@ -1,7 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel==============================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel
+==============================================================================================================================
 Software Developer------------------
 
-I'm a passionate tech nerd that loves to learn new technologies. I've always liked being able to build things, that's where my love for programming came from.* ✉️  You can contact me at [dimmelman@riseup.net](mailto:dimmelman@riseup.net)* 🧠  I'm learning Rust* ⚡  There are no limits!
+I'm a passionate tech nerd that loves to learn new technologies. I've always liked being able to build things, that's where my love for programming came from.
+
+* ✉️  You can contact me at [dimmelman@riseup.net](mailto:dimmelman@riseup.net)
+* 🧠  I'm learning Rust
+* ⚡  There are no limits!
 
 <a href="https://www.github.com/exception-raised" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/exception-raised?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
