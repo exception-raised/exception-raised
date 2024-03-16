@@ -7,7 +7,7 @@ I'm a passionate tech nerd that loves to learn new technologies. I've always lik
 
 * ✉️  You can contact me at [dimmelman@riseup.net](mailto:dimmelman@riseup.net)
 * 🧠  I'm learning Rust
-* ⚡  There are no limits!
+* ⚡  010000100110010101100101011100000010000001000010011011110110111101110000 🤖
 
 <a href="https://www.github.com/exception-raised" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/exception-raised?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
