@@ -5,7 +5,7 @@ Software Developer
 
 I'm a passionate tech nerd that loves to learn new technologies. I've always liked being able to build things, that's where my love for programming came from.
 
-* ✉️  You can contact me at [dimmelman@riseup.net](mailto:dimmelman@riseup.net)
+* ✉️  You can contact me at [dimmelman@outlook.com](mailto:dimmelman@outlook.com)
 * 🧠  I'm learning Rust
 * ⚡  010000100110010101100101011100000010000001000010011011110110111101110000 🤖
 
