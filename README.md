@@ -3,12 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a passionate tech nerd that loves to learn new technologies. I've always liked being able to build things, that's where my love for programming came from.
-
-* ✉️  You can contact me at [dimmelman@outlook.com](mailto:dimmelman@outlook.com)
-* 🧠  I'm learning Rust
-* ⚡  01001001 00100000 01110101 01110011 01100101 00100000 01000001 01110010 01100011 01101000 00100000 01100010 01110100 01110111 🤖
-
 <a href="https://www.github.com/exception-raised" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/exception-raised?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
 
