@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Daniel 👋</h1>
-  <h3>Full-Stack Software Engineer — Cape Town, ZA</h3>
+  <h3>Full-Stack Software Engineer — ZA</h3>
   <p><em>Architecting scalable solutions & building robust web applications</em></p>
   <p>
     <a href="https://www.linkedin.com/in/daniel-immelman-a7a64b299/" target="_blank">
